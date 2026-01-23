@@ -1,7 +1,28 @@
 ## Hi there 👋
 
+Hi, I'm Ashray.
+
+BCA (AI) student focusing on programming fundamentals,
+databases, and structured problem solving.
+
+### Skills
+- C
+- SQL
+- Python
+- C++
+
+### Current Focus
+- Data structures in C
+- DBMS concepts
+- GitHub workflow
+
+### Projects
+- C programming practice
+- SQL query collection
+
+
 <!--
-**Ashray-poojary/Ashray-poojary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ashray-poojary/Ashray-poojary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profie.
 
 Here are some ideas to get you started:
 
