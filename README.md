@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Ashray.
+Hi, I'm Ashray Poojary.
 
 BCA (AI) student focusing on programming fundamentals,
 databases, and structured problem solving.
@@ -14,7 +14,7 @@ databases, and structured problem solving.
 ### Current Focus
 - Data structures in C
 - DBMS concepts
-- GitHub workflow
+- Sql
 
 ### Projects
 - C programming practice
