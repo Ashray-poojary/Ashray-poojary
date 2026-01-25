@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Ashray Poojary.
+I'm Ashray Poojary.
 
 BCA (AI) student focusing on programming fundamentals,
 databases, and structured problem solving.
