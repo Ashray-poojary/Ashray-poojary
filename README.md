@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ashray Poojary.\n
+I'm Ashray Poojary./
 You can call me Ash.
 
 BCA (AI) student focusing on programming fundamentals,
