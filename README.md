@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 I'm Ashray Poojary.<br>
-You can call me Ash.
 
 BCA (AI) student focusing on programming fundamentals,
 databases, and structured problem solving.
