@@ -10,6 +10,9 @@ databases, and structured problem solving.
 - SQL
 - Python
 - C++
+- bash
+- linux
+- network 
 
 ### Current Focus
 - Data structures in C
