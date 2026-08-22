@@ -7,7 +7,7 @@ databases, and structured problem solving.
 
 ### Skills
 - C
-- SQL
+- Database(oracle)
 - Python
 - C++
 - bash
@@ -15,9 +15,9 @@ databases, and structured problem solving.
 - network 
 
 ### Current Focus
-- Data structures in C
-- DBMS concepts
-- Sql
+- Java
+- OS
+- Ai & Ml
 
 ### Projects
 - C programming practice
