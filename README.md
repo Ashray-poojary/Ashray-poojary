@@ -24,7 +24,7 @@ databases, and structured problem solving.
 - SQL query collection
 
 
-###Currently working on
+### Currently working on
 - Building a agent for small size models that can run on android or low-end device using llama.cpp and python.
 <!--
 **Ashray-poojary/Ashray-poojary** is a _special_  repository because its `README.md` (this file) appears on your GitHub profie.
